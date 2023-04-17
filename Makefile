@@ -1,2 +1,2 @@
 default:
-	g++ -o taskscheduler main.cpp
+	g++ -o taskScheduler main.cpp
