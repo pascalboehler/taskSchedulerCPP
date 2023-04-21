@@ -34,4 +34,4 @@ If you want to contribute to this project, feel free to grap an issue and submit
 
 As this is a personal project that aims no commercial use, no warranty is given. You are free to use this project **AT YOUR OWN RISK!**
 
-This project was created by Pascal Böhler in 2023 and is Licensed under the GNU Public License v3 (GPLv3).
+This project was created by Pascal Boehler in 2023 and is Licensed under the GNU General Public License v3 (GPLv3).
